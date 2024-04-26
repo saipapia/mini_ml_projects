@@ -1,2 +1,2 @@
 # mini_ml_projects
-Mini projects for beginners
+Mini Machine Learning projects for beginners
